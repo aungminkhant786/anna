@@ -1,0 +1,17 @@
+.heading {
+    text-align: center;
+    font-weight: bold;
+    color:  #18b09d ;
+    font-size: 70px;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    text-align: center;
+    color: palevioletred;
+    font-size: 30px;
+}
